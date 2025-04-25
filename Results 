@@ -1,0 +1,29 @@
+Random Network - Random Vaccination - Network States at Key Timepoints:
+Time 0: S=990.0, I=5.0, V=5.0
+Time 25: S=464.0, I=531.0, V=5.0
+Time 49: S=408.9, I=586.1, V=5.0
+
+Random Network - Degree Centrality Vaccination - Network States at Key Timepoints:
+Time 0: S=990.0, I=5.0, V=5.0
+Time 25: S=557.0, I=438.0, V=5.0
+Time 49: S=436.9, I=558.1, V=5.0
+
+Random Network - Betweenness Centrality Vaccination - Network States at Key Timepoints:
+Time 0: S=990.0, I=5.0, V=5.0
+Time 25: S=620.2, I=374.8, V=5.0
+Time 49: S=474.4, I=520.5, V=5.0
+
+Scale-Free Network - Random Vaccination - Network States at Key Timepoints:
+Time 0: S=990.0, I=5.0, V=5.0
+Time 25: S=337.2, I=657.8, V=5.0
+Time 49: S=337.2, I=657.8, V=5.0
+
+Scale-Free Network - Degree Centrality Vaccination - Network States at Key Timepoints:
+Time 0: S=990.0, I=5.0, V=5.0
+Time 25: S=588.1, I=406.9, V=5.0
+Time 49: S=579.5, I=415.6, V=5.0
+
+Scale-Free Network - Betweenness Centrality Vaccination - Network States at Key Timepoints:
+Time 0: S=990.0, I=5.0, V=5.0
+Time 25: S=585.7, I=409.3, V=5.0
+Time 49: S=580.6, I=414.4, V=5.0
